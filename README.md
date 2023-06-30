@@ -1,7 +1,7 @@
 # Vue-E-Business
 基于Vue3的购物商城平台
-技术栈
 
+## 技术栈
 `Vue3` + `Pinia` + `Element Plus` + `Vite` + `axios`
 
 ## 项目亮点
